@@ -3,6 +3,13 @@
 @section('title') Journy @endsection
  @section('content')
 <style>
+    body {
+        color: white;
+    }
+    p {
+        margin-left: 2em;
+        margin-right: 2em;
+    }
     .homepage_top_image {
         background: url('https://static.pexels.com/photos/414171/pexels-photo-414171.jpeg');
         width: 100vw;
@@ -43,6 +50,11 @@
         </button>
       </div>
         </form>
+        <h3>Motto: We bring together travelers and locals alike.</h3>
+        <p>Short desc: We bridge the gap between travelers, local people, and many of the hot spots & small businesses. We provide travelers with a variety of fun options so they can create their own unique travel experience steeped in local customs and traditions.</p>
+        <p>Beware, this site is still under construction. However, you can review its main features. Start by typing Asia in a search bar, or check our Login section</p>
+        <p>“Little by little one travels far”- J.R.R Tolkien </p>
+
     </div>
 </div>
 
