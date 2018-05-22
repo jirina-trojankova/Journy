@@ -2,7 +2,7 @@
 <div class="jumbotron location_main_picture p-md-4 text-white rounded bg-dark">
   <div class="row">
     {{--<h1 class="col-md-5">Locations Gallery and Choice</h1>--}}
-    {{--<p class="col-md-2">The Journey have many options of spending free time with Friendly Locals !</p>--}}
+    {{--<p class="col-md-2">The Journey has many options of spending free time with Friendly Locals !</p>--}}
     {{--<p class="col-md-2">You can just click interested you photo and see what attractions are waiting for you and who can be your guide in chosen--}}
       {{--time. </p>--}}
     {{--<p class="col-md-2 p">Click on the images to see the details.</p>--}}
